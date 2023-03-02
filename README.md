@@ -1,7 +1,12 @@
 # Hacktribe
 Electribe 2 hacks, based on sampler firmware version 2.02.
 
+## Experimental Branch
+Less stable than the main branch.
+
 ## Features
+- MIDI Soft Thru
+- Motion Sequences send MIDI CC
 - Sampling
 - Filters
 - Oscillators
