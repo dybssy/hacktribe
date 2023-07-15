@@ -11,6 +11,8 @@ Less stable than the main branch.
 - Filters
 - Oscillators
 - More IFX, grooves, scales
+- New MFX
+- FX preset editing
 - Import/Export IFX, grooves
 - Expanded MIDI implementation
 - Custom init pattern
